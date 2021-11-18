@@ -1,2 +1,2 @@
-# bookmarks_diff
+# bookmarksDiff
 Show difference between two Google Chrome Bookmarks
