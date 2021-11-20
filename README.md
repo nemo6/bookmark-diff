@@ -1,2 +1,2 @@
-# bookmarksDiff
-Show difference between two Google Chrome Bookmarks
+# bookmarkDiff
+Show difference between two Google Chrome bookmark
